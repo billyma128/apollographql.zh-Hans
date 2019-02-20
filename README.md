@@ -4,7 +4,7 @@
 
 ## 翻译流程
 
-1. 在 Issues 的待认领 label 中回复“翻译认领”即可，并将 Issue 改为已认领 label 。
+1. 从[待认领文章列表](https://github.com/seefe/apollographql.zh-Hans/issues?q=is%3Aissue+is%3Aopen+label%3A%E7%BF%BB%E8%AF%91%E8%AE%A4%E9%A2%86)中认领翻译文章，回复“翻译认领”即可。
 2. Fork 此仓库找认领的文章 Markdown 文件并在源文件上开始翻译。注意：Fork 此仓库后，请先从个人仓库的 master 分支上 git checkout -b "translate/文件名" 一个新的分支来翻译文章，并发送 Pull Request。
 3. 翻译完成后，PR 的标题为所翻译文章的中文标题，内容请注明对应的 Issue 链接。再把这个分支发 PR。
 
